@@ -1,5 +1,6 @@
 # ShapeMatch
-##ステージ数
+
+## ステージ数
 * 5 
 ## 開発環境 (Environment)
 * Unity 2022.3.62f3
